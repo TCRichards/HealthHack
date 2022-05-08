@@ -1,5 +1,6 @@
 /rawData
 /processedData
+/util/settings.JSON
 /.vscode
 *.pyc
 *.pyo
