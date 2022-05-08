@@ -1,0 +1,59 @@
+{
+    "Panels": [
+        {
+            "Panel Type": "Binary Log Widget",
+            "Name": "Supplements",
+            "Inputs": [
+                "Vitamin ADK",
+                "Qualia Mind",
+                "Omega Krill",
+                "Eternus",
+                "Glutathione",
+                "Qualia Sleep",
+                "Precision",
+                "Curcumin",
+                "CoQ10",
+                "Spirmidine",
+                "Collagen Protein",
+                "Copper with Zinc",
+                "Zen Mode",
+                "Prebiotics",
+                "Test"
+            ],
+            "Tracked Time": "Track Date and Time",
+            "Completion Word": "Servings"
+        },
+        {
+            "Panel Type": "Continuous Log Widget",
+            "Name": "Drugs",
+            "Inputs": [
+                "CBD",
+                "Alcohol",
+                "Kava",
+                "Kratom",
+                "Weed"
+            ],
+            "Tracked Time": "Track Date and Time",
+            "Completion Word": "Servings"
+        },
+        {
+            "Panel Type": "Binary Log Widget",
+            "Name": "Goals",
+            "Inputs": [
+                "Red Light Therapy",
+                "Yoga",
+                "Fasting",
+                "Lifting",
+                "General Low-Carb Diet",
+                "Wim Hof Method"
+            ],
+            "Tracked Time": "Track Date Only",
+            "Completion Word": "Completed"
+        }
+    ],
+    "Integrations": [
+        "MyFitnessPal",
+        "Oura Ring",
+        "HabitBull"
+    ]
+}

@@ -1,0 +1,5 @@
+/rawData
+/processedData
+/.vscode
+*.pyc
+*.pyo
