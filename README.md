@@ -1,4 +1,8 @@
-# TrackMe Health Dashboard
+# HealthHack Data Logging and Analysis
+
+What's the point of using a fitness tracker if you can't incorporate any data from other sources in its analysis?  Tired of logging the same workouts in multiple different apps so that each app can make its own conclusions about your health?
+
+HealthHack solves these problems by bringing health data from any source into a unified environment so that you can interpret it yourself.  We provide some basic data cleaning strategies and statistical tests so even someone with no statistics experience can gain insights into their own health.
 
 ## Goal
 To develop a desktop application capable of logging data and pulling data from different sources.  These different sources of data can then be cleaned and analyzed to find insights across sources that no single app supports.
@@ -8,11 +12,7 @@ To develop a desktop application capable of logging data and pulling data from d
 2. Oura Ring
 3. MyFitnessPal
 4. HabitBull
-
-This Python-based desktop app allows users to automate health data logging and analysis.
-
-Currently supports logging a variety of data types, and integrating data from Oura Ring, MyFitnessPal, and HabitBull.
-
+5. Any other form of data which is formatted by the app's standard
 
 ## Setup Instructions
 Still Under Development
